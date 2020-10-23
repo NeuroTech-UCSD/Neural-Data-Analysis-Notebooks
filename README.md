@@ -5,4 +5,4 @@ The data is from BCI Competition IV 2b, which consists of 2-class Motor Imagery 
 
 Data adapted from http://www.bbci.de/competition/iv/ 
 Download data:
-- https://drive.google.com/drive/folders/1aYlMVFFPBl2dcdfRkwZ4YPawe_LpwN70?usp=sharing
+- https://www.kaggle.com/c/ucsd-neural-data-challenge/data
